@@ -1,0 +1,51 @@
+
+.inline {
+    display: inline;
+}
+#topsection {
+    background: url(topsekszyn2.jpg);
+    background-size: 100%;
+    color: black;
+    padding-bottom: 0px;
+    padding-top: 30px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+#logoTitle {
+    padding-left: 10px;
+    color: black;
+    font-size: 50px;
+    font-family: 'Baloo Bhai', cursive;
+}
+#logo {
+    display:flex;
+    align-items: center;
+    justify-content:center;
+}
+#podtytul {
+    font-size: 30px;
+    font-family: 'Baloo Bhai', cursive;
+    color: black;
+}
+#opis {
+    background-color:lightgray;
+}
+.rowSpace {
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.white {
+    font-family: 'Baloo Bhai', cursive;
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+}
+#kontakt {
+    font-family: 'Baloo Bhai', cursive;
+    background-color: white;
+    padding-bottom: 10px;
+}
